@@ -1,6 +1,4 @@
 // ### Example 3: Weekend or Weekday
-
-```cpp
 #include <iostream>
 using namespace std;
 
